@@ -7,7 +7,6 @@ import { ToastProvider } from "@/providers/toast-provider";
 
 
 import "./globals.css";
-import "../styles/app.css"
 import { ThemeProvider } from "@/providers/theme-provider";
 
 
